@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "name": "Teste de projeto 2",
+      "budget": "3001",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Contratar Dev PHP",
+          "cost": "500",
+          "description": "Vai criar a função de envio de e-mails",
+          "id": "09d39198-579b-4daa-a267-5e0c08f71f74"
+        },
+        {
+          "name": "Contratar Dev Java",
+          "cost": "500",
+          "description": "Vai implementar o uso do aplicativo para dispositivos móveis",
+          "id": "1bbc131b-70cd-49cc-89b8-1a32795e6db9"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Teste de projeto 3.2",
+      "budget": "13000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Teste de projeto 4",
+      "budget": "1400",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Novo Projeto",
+      "budget": "900",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
